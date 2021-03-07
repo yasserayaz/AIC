@@ -1,2 +1,4 @@
 Hello world!
 Testing hellow world first.txt changes from online editor
+
+Making changes locally from smart git
